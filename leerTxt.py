@@ -8,7 +8,7 @@ EN LA MISMA CARPETA QUE ESTE SCRIPT EN PYTHON EN FORMATO TXT"""
 #PROCESO:LEE LAS LINEAS DEL ARCHIVO
 #SALIDA:IMPRIME LAS LINEAS DEL ARCHIVO POR CONSOLA
 def leerArchivo(archivo):
-        #EL MODO SERA R (READ), W(WRITE)
+        #EL MODO SERA r (READ, w(WRITE), a(APPEND)
         archivo=open(archivo,'r')
         for linea in archivo.readlines():
             print linea
