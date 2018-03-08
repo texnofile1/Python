@@ -12,7 +12,7 @@ def leerArchivo(archivo):
         archivo=open(archivo,'r')
         for linea in archivo.readlines():
             print linea
-        archivo.close()
+        archivo.close()
         return "Se ha leido correctamente su documento %s \n"
 
 
