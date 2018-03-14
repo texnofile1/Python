@@ -23,7 +23,7 @@ tipoVehiculo=0
 def iniciarPrograma():
 
     print "Ingrese vehiculo...\nvehiculo en plataforma calculando peso...\n"
-    pesoVehiculo=int(raw_input("Ingrese el peso de su vehiculo (Toneladas):\n"))
+    pesoVehiculo=int(float(raw_input("Ingrese el peso de su vehiculo (Toneladas):\n")))
     return asignarTrans(pesoVehiculo)
 
 
