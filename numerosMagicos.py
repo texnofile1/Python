@@ -25,3 +25,5 @@ numero=int(raw_input("Ingrese el numero a evaluar: \n"))
 respuesta=esMagico(numero)
 #SALIDA
 print respuesta
+
+raw_input()
