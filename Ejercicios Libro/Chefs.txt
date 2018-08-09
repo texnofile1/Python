@@ -1,0 +1,4 @@
+Chile:Perez,Juan:1
+USA:Coltedo,Mesar:2
+Brazil:Boa,Fabricio:3
+Chile:Sampos,Cergio:2

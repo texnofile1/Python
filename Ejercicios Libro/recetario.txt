@@ -1,0 +1,3 @@
+Panqueques,Harina,300[g],Huevos,3,Leche,200[ml],Aceite,Una Cucharada
+Agua,Agua,Una taza
+Cafe,agua,300[ml],azucar,una cucharada,cafe instantaneo,2 cucharadas
