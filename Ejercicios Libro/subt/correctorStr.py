@@ -28,7 +28,7 @@ def escribir(nombre,texto):
     return "FINALIZADO..." 
 
 def identificar_error(subtitulos):
-    tiempo_anterior=1e10000
+    tiempo_anterior=0
     texto=""
     valor=False
     archivoStr=open(subtitulos,"r")
